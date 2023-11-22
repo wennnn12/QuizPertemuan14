@@ -16,4 +16,6 @@ class Counter {
   void resetCounter() {
     _counter = 0;
   }
+
+  void clearCounter() {}
 }
